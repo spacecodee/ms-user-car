@@ -1,0 +1,9 @@
+[submodule "car-service"]
+	path = car-service
+	url = git@github.com:spacecodee/car-service-ms.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:spacecodee/config-server-ms.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:spacecodee/user-service-ms.git
