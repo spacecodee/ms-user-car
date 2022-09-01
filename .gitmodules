@@ -10,3 +10,9 @@
 [submodule "eureka-service"]
 	path = eureka-service
 	url = https://github.com/spacecodee/eureka-service.git
+[submodule "gateway-client"]
+	path = gateway-client
+	url = https://github.com/spacecodee/gateway-client-ms.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/spacecodee/gateway-client-ms.git
